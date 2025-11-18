@@ -23,6 +23,7 @@
 - Portfolio Website.
 - Client Websites.
 - Graphic Designing.
+- Portfolio CLI-app. (https://github.com/HarrisonDebz/portfolio-cli-Harrison)
 
 ## D. Achievements & Updates
 ### My Developer Journey Log
